@@ -6,7 +6,7 @@ import org.springframework.boot.autoconfigure.SpringBootApplication;
 import org.springframework.context.annotation.Bean;
 import org.springframework.data.rest.core.config.RepositoryRestConfiguration;
 
-import com.home.domail.Product;
+import com.home.domain.Product;
 import com.home.repository.ProductRepository;
 
 @SpringBootApplication

@@ -1,4 +1,4 @@
-package com.home.domail;
+package com.home.domain;
 
 import java.io.Serializable;
 
